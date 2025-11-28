@@ -13,6 +13,9 @@
         <!-- Login Activity -->
         <activity android:name=".LoginActivity" />
 
+        <!-- Register Activity -->
+        <activity android:name=".RegisterActivity" />
+
         <!-- Main Activity (App launcher) -->
         <activity android:name=".MainActivity"
             android:exported="true">
