@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399664521325",
+    "project_id": "raktindia-157f7",
+    "storage_bucket": "raktindia-157f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399664521325:android:b1a353d7b718202f3b5f64",
+        "android_client_info": {
+          "package_name": "com.example.raktindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNLjn6z-4hXluxGmzT8ebF17dQsGJW1Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

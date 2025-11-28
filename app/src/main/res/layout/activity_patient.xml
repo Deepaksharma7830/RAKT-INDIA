@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/etBloodGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Required Blood Group"
+        android:inputType="textCapWords" />
+
+    <EditText
+        android:id="@+id/etLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Location"
+        android:inputType="textCapWords" />
+
+    <Button
+        android:id="@+id/btnRequestBlood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Request Blood"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
